@@ -1,0 +1,30 @@
+# This is the file for the Pirate language
+# TITLES
+MainMenuTitle ~NOT GAUNTLET~
+CharacterTitle SELECT YER MATEY
+OptionsTitle CHANGE YER SETTIN'S
+DifficultyTitle SELECT YER SEA
+LanguageTitle WHAT DO YE SPEAK
+PausedTitle YE PAUSED THE GAME
+GameOverTitle DAVY JONES CLAIMED YE
+CreditsTitle SHANTIES
+# MENU OPTIONS
+Start Set Sail
+Options Change yer provisions
+Difficulty How hard ye game?
+Difficulty1 POND WATER
+Difficulty2 THE SEVEN SEAS
+Difficulty3 TREACHEROUS WATERS
+SoundToggle Shanties
+Language Yer Native Tongue
+English Landlubber
+Pirate Scallywag
+UWU Ocean Fearin' Furry Beast
+Load Continue where ye left off
+Warrior Swashbuckler
+Bandit Raider
+Wizard Cannoneer
+Continue Keep Playin'
+Restart Try yer luck again
+ReturnToMenu Retreat to yer port
+Quit Surrender

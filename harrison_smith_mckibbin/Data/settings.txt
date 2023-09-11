@@ -1,0 +1,4 @@
+# DIFFICULTY SETTINGS
+MultiplierEasy 1.0
+MultiplierNorm 1.5
+MultiplierHard 2.0

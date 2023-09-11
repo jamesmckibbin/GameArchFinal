@@ -1,0 +1,30 @@
+# This is the file for the English language
+# TITLES
+MainMenuTitle ~NOT GAUNTLET~
+CharacterTitle SELECT YOUR CHARACTER
+OptionsTitle OPTIONS
+DifficultyTitle SELECT DIFFICULTY
+LanguageTitle LANGUAGES
+PausedTitle PAUSED
+GameOverTitle GAME OVER
+CreditsTitle SONG CREDITS
+# MENU OPTIONS
+Start Start
+Options Options
+Difficulty Difficulty Select
+Difficulty1 EASY
+Difficulty2 NORMAL
+Difficulty3 HARD
+SoundToggle Music
+Language Language
+English English
+Pirate Pirate
+UWU UWU
+Load Load Save
+Warrior Warrior
+Bandit Bandit
+Wizard Wizard
+Continue Continue
+Restart Restart
+ReturnToMenu Return To Main Menu
+Quit Quit

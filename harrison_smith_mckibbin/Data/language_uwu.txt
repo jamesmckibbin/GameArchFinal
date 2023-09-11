@@ -1,0 +1,30 @@
+# This is the file for the UWU language
+# TITLES
+MainMenuTitle ~NOT GAUNTWET~
+CharacterTitle SEWECT YOUR CHAWACTEW
+OptionsTitle OPTIONS
+DifficultyTitle SEWECT DIFFICUWTY
+LanguageTitle LANGWUAGES
+PausedTitle PAWSED
+GameOverTitle GAME OVEW
+CreditsTitle SONG CWEDITS
+# MENU OPTIONS
+Start Stawt
+Options Options
+Difficulty Difficuwty Sewect
+Difficulty1 EASY
+Difficulty2 NORMAW
+Difficulty3 HAWD
+SoundToggle Music
+Language Langwuage
+English Engwish
+Pirate Piwate
+UWU UWU
+Load Lowd
+Warrior Wawwiow
+Bandit Bandit
+Wizard Wizawd
+Continue Continwue
+Restart Restawt
+ReturnToMenu Wetuwn To Main Menuwu
+Quit Quwit
